@@ -13,7 +13,7 @@ Nossa meta inicial é consolidar a MIND como grupo de estudos reconhecido na UFP
 
 | Nome                     | GitHub (ou LinkedIn) |  
 |--------------------------|----------------------|  
-| **Antonio da Ressureição Filho** | [@seuuser](https://github.com/) |  
+| **Antonio da Ressureição Filho** | [@Antonio-RF](https://github.com/) |  
 | **Matheus Gastal**        | [@matheusgastal](https://github.com/matheusgastal) |  
 | **Pietro Comin**          | [@pietrocomin](https://github.com/pietrocom) |  
 | **Roberto Tomchak**       | [@robertotomchak](https://github.com/robertotomchak) |  
