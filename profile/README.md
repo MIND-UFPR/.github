@@ -53,8 +53,7 @@ Nossa meta inicial é consolidar a MIND como grupo de estudos reconhecido na UFP
 ---
 
 ## **📩 Contato**  
-✉ **E-mail:** criar email mind?  
-🔗 **LinkedIn:** [MIND AI Solutions](https://linkedin.com/company/) criar linkedin? 
+✉ **E-mail:** mindufpr@gmail.com 
 
 ---
 
