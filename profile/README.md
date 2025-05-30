@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MIND - Soluções Empresariais com IA</h1>
+  <h1>MIND - Soluções Empresariais com Machine Learning</h1>
 </div>
 
 ## **📌 Sobre o Projeto**  
